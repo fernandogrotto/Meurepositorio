@@ -2,3 +2,5 @@ jujuba
 goiaba
 banana
 maça
+uva 
+maracuja
