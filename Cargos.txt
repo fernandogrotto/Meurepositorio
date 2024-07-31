@@ -1,0 +1,4 @@
+jogador
+player
+main
+master
